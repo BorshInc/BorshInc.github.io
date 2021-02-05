@@ -66,10 +66,10 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 </div>
-[![Alt text](//https://borshinc.files.wordpress.com/2020/12/wikiwalklogo1.png)](http://example.com/)
-[![Alt text](//https://borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
-[![Alt text](//https://borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
-[![Alt text](//https://borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
+[![Alt text](//borshinc.files.wordpress.com/2020/12/wikiwalklogo1.png)](http://example.com/)
+[![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
+[![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
+[![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
