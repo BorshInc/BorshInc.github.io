@@ -66,6 +66,10 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 </div>
+.foo table {
+  styles...
+}
+
 <style>
 table th:first-of-type {
     width: 10%;
