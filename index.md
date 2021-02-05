@@ -59,21 +59,17 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-<div style=”width:30%;padding:0 10pt 0 0;float:left;”>
-Column 1
-<img src="https://borshinc.files.wordpress.com/2020/12/borshsystems.png" alt="" width="250" height="250" /><figcaption>Borsh Systems</figcaption></figure></div>
-Column 1
-</div>
-<div style=”width:30%;padding:0 10pt 0 0;float:center;”>
-Column 2
-<img src="https://borshinc.files.wordpress.com/2020/12/borshsystems.png" alt="" width="250" height="250" /><figcaption>Borsh Systems</figcaption></figure></div>
-Column 2
-</div>
-<div style=”width:30%;padding:0 10pt 0 0;float:right;”>
-Column 3
-<img src="https://borshinc.files.wordpress.com/2020/12/borshsystems.png" alt="" width="250" height="250" /><figcaption>Borsh Systems</figcaption></figure></div>  
-Column 3
-</div>
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
