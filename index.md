@@ -66,6 +66,7 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 </div>
+![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
 [![Alt text](//borshinc.files.wordpress.com/2020/12/wikiwalklogo1.png)](http://example.com/)
 [![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
 [![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
