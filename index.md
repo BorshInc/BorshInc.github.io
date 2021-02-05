@@ -66,6 +66,9 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 </div>
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
