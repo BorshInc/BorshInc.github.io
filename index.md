@@ -70,6 +70,11 @@ categories: [Borsh Inc, Герои вики, Длинный контур, Кра
 [![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
 [![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
 [![Alt text](//borshinc.files.wordpress.com/2020/12/borshsystems.png)](http://example.com/)
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
