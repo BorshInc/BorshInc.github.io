@@ -1,7 +1,0 @@
-theme: jekyll-theme-merlot
-nav:
-- page: Header One
-  permalink: #header-one
-
-- page: Header Two
-  permalink: #header-two
