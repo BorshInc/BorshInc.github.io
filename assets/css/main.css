@@ -891,7 +891,8 @@
 		table tbody tr {
 			border: solid 1px #ffffff;
 			border-left: 0;
-			border-right: 0;			
+			border-right: 0;
+			width: 100%;	
 		}
 
 			table tbody tr:nth-child(2n + 1) {
@@ -900,7 +901,8 @@
 
 		table td {
 			padding: 0.75em 0.75em;
-			align-items: center;			
+			align-items: center;
+			width: 100%;	
 		}
 
 		table th {
